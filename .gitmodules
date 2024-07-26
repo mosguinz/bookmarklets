@@ -1,0 +1,3 @@
+[submodule "transit-display"]
+	path = transit-display
+	url = https://github.com/mosguinz/transit-display
